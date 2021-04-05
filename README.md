@@ -3,7 +3,7 @@
 ## Stoffumfang
 
 - Netzwerkprogrammierung mit Sockets
-  - Datenübertragung: Text, Binär, Objekte
+  - [Datenübertragung: Text, Binär, Objekte](Sockets_Datenuebertragung.md)
   - Protokollimplementierung (frei bzw. nach Vorlage)
   - Information auslesen über Socket (Lokal + Remote)
 
