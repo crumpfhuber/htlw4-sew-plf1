@@ -17,4 +17,4 @@
   - JavaFX Client mit Mulithreading zur Kommunikation (sprich: Tasks,Services) und somit auch Properties und Bindings
   - Achtung bei Bindings: Properties können nicht serialisiert werden - da muss man sich selbst drum kümmern (vgl. Folien)
 
-- Properties
+- [Properties](Properties.md)
