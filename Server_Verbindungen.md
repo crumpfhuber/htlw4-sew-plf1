@@ -3,7 +3,7 @@
 ## Executors
 
 `Executors.newCachedThreadPool()` ... Thread-Pool, der bei Bedarf neue Threads erstellt, wenn keine Threads wiederverwendbar sind
-`Executors.newFixedThreadPool(int nThreads)` ... Threadpool mit einer fixen Anzahl an Threads
+`Executors.newFixedThreadPool(int nThreads)` ... Thread-Pool mit einer fixen Anzahl an Threads
 
 ## Beispiel
 
