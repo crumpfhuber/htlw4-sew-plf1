@@ -4,7 +4,7 @@
 
 | Typ     | Input             | Output             |
 | ------- | ----------------- | ------------------ |
-| Text    | BufferedReader    | PrintWriter        |
+| Text    | Scanner    | PrintWriter        |
 | Binär   | DataInputStream   | DataOutputStream   |
 | Objekte | ObjectInputStream | ObjectOutputStream |
 
