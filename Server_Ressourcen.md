@@ -4,10 +4,11 @@
 
 `Server.java`
 ```java
-...
+[...]
 lock.lock();
-...
+[...]
 lock.unlock();
+[...]
 ```
 
 ## Collections
