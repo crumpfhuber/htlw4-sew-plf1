@@ -4,11 +4,16 @@
 
 `Server.java`
 ```java
-[...]
+Lock lock = new ReentrantLock();
+```
+
+`ClientHandler.java`
+```java
+
 lock.lock();
-[...]
+
 lock.unlock();
-[...]
+
 ```
 
 ## Collections
