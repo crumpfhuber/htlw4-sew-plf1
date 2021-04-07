@@ -7,6 +7,7 @@
 | Text    | Scanner    | PrintWriter        |
 | Binär   | DataInputStream   | DataOutputStream   |
 | Objekte | ObjectInputStream | ObjectOutputStream |
+| Dateien | FileInputStream | FileOutputStream |
 
 ## Binär
 
