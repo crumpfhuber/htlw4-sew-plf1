@@ -10,7 +10,7 @@
 - Server
   - [mehrere, gleichzeitige Verbindungen](Server_Verbindungen.md)
   - Multithreading (inkl. Absicherung)
-  - zentrale Verwaltung von Ressourcen (Daten, Collections, Dateien, ...)
+  - [zentrale Verwaltung von Ressourcen (Daten, Collections, Dateien, ...)](Server_Ressourcen.md)
 
 - Client
   - Konsolenclient
