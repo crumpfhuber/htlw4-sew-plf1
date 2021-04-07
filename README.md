@@ -18,3 +18,8 @@
   - Achtung bei Bindings: Properties können nicht serialisiert werden - da muss man sich selbst drum kümmern (vgl. Folien)
 
 - [Properties](Properties.md)
+
+## Projekte
+
+- [Fileserver](https://github.com/crumpfhuber/htlw4-sew-plf1/tree/fileserver)
+- [Socket-Chat](https://github.com/crumpfhuber/htlw4-sew-plf1/tree/socket-chat)
